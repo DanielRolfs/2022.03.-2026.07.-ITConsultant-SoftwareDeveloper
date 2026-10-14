@@ -1,5 +1,5 @@
 
-# 2022.03. - 2026.07. IT-Consultant / Software Developer
+# IT-Consultant / Software Developer Projects (MAR 2022 - JUL 2026)
 
 
 | Year      | Customer                      | Project                    | Role                           | Main Technology             | Launched Site                                                                |
